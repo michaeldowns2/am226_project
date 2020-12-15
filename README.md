@@ -1,4 +1,4 @@
-# Neural-Generative Models for Heterogenous Attribute Tabular Data
+# Neural-Generative Models for Heterogeneous Attribute Tabular Data
 
 ## About
 This repo contains an implementation of a VAE and CSVAE with modified likelihoods to explicitly handle tabular data with heterogenous statistical data types including:

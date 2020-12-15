@@ -1,5 +1,5 @@
 """
-This is an implementation of a CSVAE that can handle heterogenous attribute data. See the hcsvae jupyter notebook for more details.
+This is an implementation of a CSVAE that can handle heterogeneous attribute data. See the hcsvae jupyter notebook for more details.
 """
 
 from itertools import chain

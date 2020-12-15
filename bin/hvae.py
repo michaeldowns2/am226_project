@@ -1,5 +1,5 @@
 """
-This is an implementation of a VAE that can handle heterogenous attribute data. See the hvae jupyter notebook for more details.
+This is an implementation of a VAE that can handle heterogeneous attribute data. See the hvae jupyter notebook for more details.
 """
 
 from math import comb 
